@@ -27,8 +27,8 @@ func NewAPIServer(host string, db *gorm.DB) *APIServer {
 			StrictRouting:         true,
 			CaseSensitive:         true,
 			Prefork:               false,
-			DisableStartupMessage: true,
-			AppName:               "OnlyDrive API",
+			DisableStartupMessage: false,
+			AppName:               "AxolotlDrive API",
 			TrustedProxies:        []string{"0.0.0.0/0"},
 			ErrorHandler: func(ctx *fiber.Ctx, err error) error {
 				log.Error().Err(err).Msgf("API error: %v", err.Error())

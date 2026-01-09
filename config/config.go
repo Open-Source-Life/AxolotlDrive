@@ -51,7 +51,7 @@ func NewConfig() *Config {
 		DBPort:   loadEnvIntWithKey("DB_PORT", 5433),
 		DBUser:   loadEnvWithKey("DB_USER", "kamamuchi"),
 		DBPass:   loadEnvWithKey("DB_PASS", "supersecretpassword_dev"),
-		DBName:   loadEnvWithKey("DB_NAME", "onlydrive_dev"),
+		DBName:   loadEnvWithKey("DB_NAME", "axolotldrive_dev"),
 		LOGLevel: loadEnvWithKey("LOG_LEVEL", "debug"),
 	}
 }
