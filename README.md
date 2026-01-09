@@ -36,7 +36,7 @@ OnlyDrive is a lightweight, privacy-focused file storage and synchronization sol
 
 - Go 1.25+
 - PostgreSQL 17+
-- Docker & Docker Compose (optional)
+- Docker & Docker Compose (recommended)
 
 ### Installation
 
