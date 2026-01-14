@@ -6,8 +6,8 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/Open-Source-Life/AxolotlDrive/middlewares"
-	"github.com/Open-Source-Life/AxolotlDrive/services"
+	"github.com/TungstenDevs/AxolotlDrive/middlewares"
+	"github.com/TungstenDevs/AxolotlDrive/services"
 	"github.com/gofiber/fiber/v2"
 )
 

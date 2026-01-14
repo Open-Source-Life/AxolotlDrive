@@ -3,10 +3,10 @@ package main
 import (
 	"fmt"
 
-	"github.com/Open-Source-Life/AxolotlDrive/cmd/api"
-	"github.com/Open-Source-Life/AxolotlDrive/config"
-	"github.com/Open-Source-Life/AxolotlDrive/db"
-	"github.com/Open-Source-Life/AxolotlDrive/logger"
+	"github.com/TungstenDevs/AxolotlDrive/cmd/api"
+	"github.com/TungstenDevs/AxolotlDrive/config"
+	"github.com/TungstenDevs/AxolotlDrive/db"
+	"github.com/TungstenDevs/AxolotlDrive/logger"
 	"github.com/rs/zerolog/log"
 )
 

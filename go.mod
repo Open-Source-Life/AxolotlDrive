@@ -1,4 +1,4 @@
-module github.com/Open-Source-Life/AxolotlDrive
+module github.com/TungstenDevs/AxolotlDrive
 
 go 1.25.5
 

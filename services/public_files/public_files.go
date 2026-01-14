@@ -10,7 +10,7 @@ import (
 	"strings"
 	"time"
 
-	dtos "github.com/Open-Source-Life/AxolotlDrive/DTOs"
+	dtos "github.com/TungstenDevs/AxolotlDrive/DTOs"
 	"github.com/google/uuid"
 	"github.com/rs/zerolog/log"
 )

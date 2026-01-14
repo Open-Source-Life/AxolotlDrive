@@ -7,7 +7,7 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/Open-Source-Life/AxolotlDrive/routes"
+	"github.com/TungstenDevs/AxolotlDrive/routes"
 	"github.com/gofiber/fiber/v2"
 	"github.com/rs/zerolog/log"
 	"gorm.io/gorm"

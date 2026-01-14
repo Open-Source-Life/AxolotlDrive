@@ -47,7 +47,7 @@ AxolotlDrive is a lightweight, privacy-focused file storage and synchronization 
 ### Installation
 
 ```bash
-git clone https://github.com/Open-Source-Life/AxolotlDrive.git
+git clone https://github.com/TungstenDevs/AxolotlDrive.git
 cd AxolotlDrive
 go mod download
 ```
@@ -256,5 +256,5 @@ While Rust provides excellent performance and safety guarantees, Go offers a mor
 ## Support
 
 - 📖 [API Documentation](./API_ENDPOINTS.md)
-- 🐛 [Issue Tracker](https://github.com/Open-Source-Life/AxolotlDrive/issues)
-- 💬 [Discussions](https://github.com/Open-Source-Life/AxolotlDrive/discussions)
+- 🐛 [Issue Tracker](https://github.com/TungstenDevs/AxolotlDrive/issues)
+- 💬 [Discussions](https://github.com/TungstenDevs/AxolotlDrive/discussions)

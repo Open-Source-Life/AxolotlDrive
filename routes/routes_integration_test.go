@@ -11,8 +11,8 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/Open-Source-Life/AxolotlDrive/middlewares"
-	publicfiles "github.com/Open-Source-Life/AxolotlDrive/services/public_files"
+	"github.com/TungstenDevs/AxolotlDrive/middlewares"
+	publicfiles "github.com/TungstenDevs/AxolotlDrive/services/public_files"
 	"github.com/gofiber/fiber/v2"
 	"github.com/stretchr/testify/assert"
 )

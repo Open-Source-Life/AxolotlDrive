@@ -4,7 +4,7 @@ import (
 	"sync"
 	"time"
 
-	dtos "github.com/Open-Source-Life/AxolotlDrive/DTOs"
+	dtos "github.com/TungstenDevs/AxolotlDrive/DTOs"
 	"github.com/gofiber/contrib/websocket"
 	"github.com/google/uuid"
 )

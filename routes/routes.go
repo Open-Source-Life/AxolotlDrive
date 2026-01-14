@@ -3,9 +3,9 @@ package routes
 import (
 	"strings"
 
-	"github.com/Open-Source-Life/AxolotlDrive/middlewares"
-	"github.com/Open-Source-Life/AxolotlDrive/services"
-	publicfiles "github.com/Open-Source-Life/AxolotlDrive/services/public_files"
+	"github.com/TungstenDevs/AxolotlDrive/middlewares"
+	"github.com/TungstenDevs/AxolotlDrive/services"
+	publicfiles "github.com/TungstenDevs/AxolotlDrive/services/public_files"
 	"github.com/gofiber/contrib/websocket"
 	"github.com/gofiber/fiber/v2"
 	"gorm.io/gorm"
