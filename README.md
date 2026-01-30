@@ -2,6 +2,8 @@
 
 An open-source, self-hosted Google Drive alternative built with Go.
 
+> I hate go go is trash go can't work with this one
+
 > **NOTE:** AxolotlDrive is a complete rewrite of RustyDrive in Go. We realized that while Rust provides excellent performance, Go offers a more accessible entry point for contributors and is perfectly suited for self-hosted applications.
 
 ## Description
